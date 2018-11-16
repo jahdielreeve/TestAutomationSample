@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Executing GoogleTest <<<<<]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Running test in Firefox]]>
+    </line>
+    <line>
+      <![CDATA[Opened http://google.com]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Entered value in google search bar...]]>
+    </line>
+    <line>
+      <![CDATA[Clicked search button...]]>
+    </line>
+    <line>
+      <![CDATA[The text Cheeseis present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[text from element: 402]]>
+    </line>
+    <line>
+      <![CDATA[wrote the text in excel]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Terminating GoogleTest <<<<<]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33884" started-at="2016-08-04T11:54:19Z" finished-at="2016-08-04T11:54:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33884" started-at="2016-08-04T11:54:19Z" finished-at="2016-08-04T11:54:53Z">
+      <class name="acn.test.GoogleTest">
+        <test-method status="PASS" signature="Googletest()[pri:0, instance:acn.test.GoogleTest@589838eb]" name="Googletest" duration-ms="32047" started-at="2016-08-04T19:54:19Z" finished-at="2016-08-04T19:54:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Executing GoogleTest <<<<<]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Running test in Firefox]]>
+            </line>
+            <line>
+              <![CDATA[Opened http://google.com]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Entered value in google search bar...]]>
+            </line>
+            <line>
+              <![CDATA[Clicked search button...]]>
+            </line>
+            <line>
+              <![CDATA[The text Cheeseis present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[text from element: 402]]>
+            </line>
+            <line>
+              <![CDATA[wrote the text in excel]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Googletest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:acn.test.GoogleTest@589838eb]" name="endTest" is-config="true" duration-ms="1799" started-at="2016-08-04T19:54:51Z" finished-at="2016-08-04T19:54:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Terminating GoogleTest <<<<<]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- acn.test.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

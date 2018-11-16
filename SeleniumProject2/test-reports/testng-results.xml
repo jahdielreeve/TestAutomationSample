@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Executing GoogleTest <<<<<]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Running test in Chrome]]>
+    </line>
+    <line>
+      <![CDATA[Opened http://google.com]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Entered value in google search bar...]]>
+    </line>
+    <line>
+      <![CDATA[Clicked search button...]]>
+    </line>
+    <line>
+      <![CDATA[text from element: 402]]>
+    </line>
+    <line>
+      <![CDATA[wrote the text in excel]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Terminating GoogleTest <<<<<]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Executing Yahoo <<<<<]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Running test in Chrome]]>
+    </line>
+    <line>
+      <![CDATA[Opened http://yahoo.com]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Clicked signin button...]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Terminating Yahoo <<<<<]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Executing BookAFlightTest <<<<<]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Running test in Chrome]]>
+    </line>
+    <line>
+      <![CDATA[Opened http://newtours.demoaut.com]]>
+    </line>
+    <line>
+      <![CDATA[Entered value in Userame field...]]>
+    </line>
+    <line>
+      <![CDATA[Entered value in Password field...]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Sign-In button...]]>
+    </line>
+    <line>
+      <![CDATA[The text Use our Flight Finder to search for the lowest fare on participating airlines. Once you've booked your flight, don't forget to visit the Mercury Tours Hotel Finder to reserve lodging in your destination city.is present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[Selected value in Airline...]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Continue button...]]>
+    </line>
+    <line>
+      <![CDATA[The text Acapulco to Acapulcois present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Continue button...]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Entered value in First Name field...]]>
+    </line>
+    <line>
+      <![CDATA[Entered value in Last Name field...]]>
+    </line>
+    <line>
+      <![CDATA[Entered value in Credit Card Number field...]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Secure Purchase button...]]>
+    </line>
+    <line>
+      <![CDATA[The text Your itinerary has been booked!is present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[The text Total Taxes:  $44 USD
+Total Price (including taxes):  $584 USDis present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[Clicked LOG OUT button...]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Terminating BookAFlightTest <<<<<]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+  </reporter-output>
+  <suite name="Sample Test" duration-ms="46336" started-at="2018-08-04T19:05:36Z" finished-at="2018-08-04T19:06:23Z">
+    <groups>
+    </groups>
+    <test name="Sample Google Test" duration-ms="46336" started-at="2018-08-04T19:05:36Z" finished-at="2018-08-04T19:06:23Z">
+      <class name="acn.test.Yahoo">
+        <test-method status="PASS" signature="Yahoo()[pri:0, instance:acn.test.Yahoo@1554909b]" name="Yahoo" duration-ms="18211" started-at="2018-08-05T03:05:45Z" finished-at="2018-08-05T03:06:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Executing Yahoo <<<<<]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Running test in Chrome]]>
+            </line>
+            <line>
+              <![CDATA[Opened http://yahoo.com]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Clicked signin button...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Yahoo -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:acn.test.Yahoo@1554909b]" name="endTest" is-config="true" duration-ms="451" started-at="2018-08-05T03:06:03Z" finished-at="2018-08-05T03:06:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Terminating Yahoo <<<<<]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- acn.test.Yahoo -->
+      <class name="acn.test.GoogleTest">
+        <test-method status="PASS" signature="Googletest()[pri:0, instance:acn.test.GoogleTest@6108b2d7]" name="Googletest" duration-ms="8294" started-at="2018-08-05T03:05:36Z" finished-at="2018-08-05T03:05:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Executing GoogleTest <<<<<]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Running test in Chrome]]>
+            </line>
+            <line>
+              <![CDATA[Opened http://google.com]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Entered value in google search bar...]]>
+            </line>
+            <line>
+              <![CDATA[Clicked search button...]]>
+            </line>
+            <line>
+              <![CDATA[text from element: 402]]>
+            </line>
+            <line>
+              <![CDATA[wrote the text in excel]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Googletest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:acn.test.GoogleTest@6108b2d7]" name="endTest" is-config="true" duration-ms="666" started-at="2018-08-05T03:05:45Z" finished-at="2018-08-05T03:05:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Terminating GoogleTest <<<<<]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- acn.test.GoogleTest -->
+      <class name="acn.test.BookAFlightTest">
+        <test-method status="PASS" signature="BookAFlight()[pri:0, instance:acn.test.BookAFlightTest@6bf256fa]" name="BookAFlight" duration-ms="18453" started-at="2018-08-05T03:06:04Z" finished-at="2018-08-05T03:06:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Executing BookAFlightTest <<<<<]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Running test in Chrome]]>
+            </line>
+            <line>
+              <![CDATA[Opened http://newtours.demoaut.com]]>
+            </line>
+            <line>
+              <![CDATA[Entered value in Userame field...]]>
+            </line>
+            <line>
+              <![CDATA[Entered value in Password field...]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Sign-In button...]]>
+            </line>
+            <line>
+              <![CDATA[The text Use our Flight Finder to search for the lowest fare on participating airlines. Once you've booked your flight, don't forget to visit the Mercury Tours Hotel Finder to reserve lodging in your destination city.is present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[Selected value in Airline...]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Continue button...]]>
+            </line>
+            <line>
+              <![CDATA[The text Acapulco to Acapulcois present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Continue button...]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Entered value in First Name field...]]>
+            </line>
+            <line>
+              <![CDATA[Entered value in Last Name field...]]>
+            </line>
+            <line>
+              <![CDATA[Entered value in Credit Card Number field...]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Secure Purchase button...]]>
+            </line>
+            <line>
+              <![CDATA[The text Your itinerary has been booked!is present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[The text Total Taxes:  $44 USD
+Total Price (including taxes):  $584 USDis present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[Clicked LOG OUT button...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BookAFlight -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:acn.test.BookAFlightTest@6bf256fa]" name="endTest" is-config="true" duration-ms="237" started-at="2018-08-05T03:06:22Z" finished-at="2018-08-05T03:06:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Terminating BookAFlightTest <<<<<]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- acn.test.BookAFlightTest -->
+    </test> <!-- Sample Google Test -->
+  </suite> <!-- Sample Test -->
+</testng-results>
